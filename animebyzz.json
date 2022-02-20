@@ -2,12 +2,12 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -21,127 +21,74 @@
   ],
   "Categories": [
     {
-      "name_category": "Super Car",
-      "wallpaper_url": "category/supercar.jpeg"
-    },
-    {
-      "name_category": "Nature",
-      "wallpaper_url": "category/beach.jpeg"
-    },
-    {
-      "name_category": "Animals",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=699454yDaQwbM6cNFuAT2cLejZ9-8hNPCilhXUDC9RjnsxEomMMUiJ_ZpnUu_SORL_qK1pm49PI6nonSPX3bF06xXQWnjdIs4a8UPq3Hpr5JtlN5V3IdBar9_eEeEdua-3i1rIX0hnB54BKjNhuk6EsbkdeZmaDs6zNCoAX2H3tWTBbjEbdZXKeYj7_Ls_oVkwVF3AGaTz9Fuv9d"
-    },
-    {
-      "name_category": "Vector",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=lr5CZ8vkX8mvjvXbpIVA0gcZMfLgYswISSgsryq98ECBMq9u1FHVjCrkzcZFGbyRxqjVrmSAJ3cbXMMqZ8EW7L6odYaD5hOGkbrahr5CCknShcLO_hglg30_tBwSdWKrnhMkdRt23UhJnDQBBfHmRmuw1jpYj0dFGRCK3BbCfI9t2YyPGEqLKgP194EV1YORZwyo0q2vTRKQtgSl"
+      "name_category": "Animeboy",
+      "wallpaper_url": "category/animeboy4.jpeg"
     }
   ],
   "Wallpaper": [
     {
       "id": 1,
-      "name_category": "Super Car",
-      "wallpaper_name": "Targa",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy1",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car.jpeg"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342955-31ba2eef-88ff-446b-8585-4d859e8804c9.jpeg"
     },
     {
       "id": 2,
-      "name_category": "Super Car",
-      "wallpaper_name": "AUDI",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "image/car2.jpeg"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342974-2e09fe66-b45d-4549-945f-075487b0e9ce.jpeg"
     },
     {
       "id": 3,
-      "name_category": "Super Car",
-      "wallpaper_name": "Lamborghini online",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=WzHojpVr-9e08Y-AH_0by4YHda7dyOSAC4DGq8TIZxJ3jV4F_gjM0NL7HhgDgttsEwouIA3wm_f6rG7fwmr8hANlNM34saxpAy6hfUQhD0uc2biWhL2U66babd429tqfcKIucYirg-8PZKu5YdgXyDgnGbJ8OZSBinsPEH0UcmxYI0lW1cXc1BXAebjTmHhlddILS_sr9sjH_mni"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342987-5b6dc2ba-a888-444e-89de-a8ead203a241.jpeg"
     },
     {
       "id": 4,
-      "name_category": "Animals",
-      "wallpaper_name": "Cats Eyes",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=G0Vz_ghyvO5D_KvhbcnTegU8qEgLp2VYnuf-UvbcL38AfKP9qSbV2URnXV6VFrcbd5_CvlDTUqucxjskrhFuGV_Lyx8Wf8FK3MAzehtwz3U3IqvPok36dyyDtzZYbDb0ulO6ETF0oBoTbiVfvbyTN6uRW6Vllp1J5qwdiNz9UDNyAhz0IPGe4o1TEVFU8CgofeYzAJw6RPQqYQOn"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342961-dbc4f819-1ee5-4e28-874f-fc7cda99f98a.jpeg"
     },
     {
       "id": 5,
-      "name_category": "Nature",
-      "wallpaper_name": "Waterfall",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsa.zobj.net/crop.php?r=f1Ck9IjB97H0HoRDVgmJ17ssp-DnEka5YgeS1jwjNOrGealcOZVtB8EKCm08pN0RkfWw0Ind39wZYvPh75wY6Nzz2EbYapMooRs05PhX3hhsLjpgtZCYdOLnJI_JYLLQo1UylmGWwQ36Garqn5UAkDVnVqrRGhM1HK8LScKOJvzWF207blSQZnJBYOyMZqB7oBv25Ps4GbBiT6Lq"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342967-b09d4574-08c9-4861-babb-8fd09f64c305.jpeg"      
+
     },
     {
       "id": 6,
-      "name_category": "Nature",
-      "wallpaper_name": "Mountains",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=nAu7dUDvECaSSV2dpCP904JxubxjbxI3sruHIJmxwGTK-ziYxtcDgGJDAMkjzwz9JKbmCjQiiP8m18Oh1Wvblk5CFoL7P_tQOpEk7ukwvBH1fH_odtMtGBxik_2j7a5H8jJnKbh8i43bWZpYoskMtjs_wQxOEYdDLknIbxUS_vEd4N6xfjAGrugdhW_KS24iYgmHOzo6tPuBd3uE"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151342996-0915f05a-678b-4fd7-a94b-a43b8f57bef9.jpeg"
     },
     {
       "id": 7,
-      "name_category": "Animals",
-      "wallpaper_name": "Loves Bird",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=jQ2USSikr_q5y0tJHcZVC_gvPC9uSELWX9lqlv-4VMdPm8dcdF9Kk8PmSCGvxzgunrDI6zEYvht_tF0ZVpKzgXWLHKCsOlgoW0z1E53lNTKNTIxbWzY75j_im4r7wDxCqmonLHlM9fuxXGvAmDNXFjYI8OU0ehKjj5kl6kcdzG0GDxd4GC5uXvLVviqSIHYtGuHTLXRnGVHw-9kW"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343074-1a43060f-5461-4941-ab9d-53a1e23295c9.jpeg"
     },
     {
       "id": 8,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Online",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/river2.gif"
-    },
-    {
-      "id": 9,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Waterfall Folder Asset",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "gif/waterfall.gif"
-    },
-    {
-      "id": 10,
-      "name_category": "Nature",
-      "wallpaper_name": "Live Beach Online",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/palm.mp4"
-    },
-    {
-      "id": 10,
-      "name_category": "Animals",
-      "wallpaper_name": "Live Frog Folder Asset",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/frog2.mp4"
-    },
-    {
-      "id": 11,
-      "name_category": "Vector",
-      "wallpaper_name": "Blue Ink",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/blueink.mp4"
-    },
-    {
-      "id": 12,
-      "name_category": "Nature",
-      "wallpaper_name": "Summer",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "https://aliendro.id/uploads/demo/livewall/flower.mp4"
-    },
-    {
-      "id": 13,
-      "name_category": "Vector",
-      "wallpaper_name": "Sunset vecto",
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=5l2rRlSKwIQro0aaWoR2NVS_VttrfMP5dUlY9nAT7LkFJpD_hrPVJrHj8RO9wjKSor9crYTTtF71kWafZ07t0Jeh2QidDsVN0kMmHJubyznNyOnv8p_FdK8teCa87OX_UtaK2YCaUmt9Btfp0NKJcWep_9txBuYIvcNtPLUQWLXo9ToKPGNG562fl4MNRASa1RXcRCmYicZLonmc"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343061-3148290c-f72a-4153-8c66-49fd88110250.jpeg"
     },
     {
-      "id": 14,
-      "name_category": "Vector",
-      "wallpaper_name": "Vector island pirate",
+      "id": 8,
+      "name_category": "Animeboy",
+      "wallpaper_name": "Animeboy9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://fsb.zobj.net/crop.php?r=cPXcg20dkirK_YZRY3MIiy-0ZGAIqWCGcb1GBFmowZPQuRyie9SbHbUsPMOMb7ZhkNUszfJFABiot7XmpRwDCNhVFdfFAKTIcebBNPHcMj211yiCnYMXtaSo0fu-RDe5WA_knLZZIsn0Q2jP0oWLcDdOUiZNg3PT05CzlNXB4CRjDtJpf6i8i4x4BCdDVLuf5ZSBqwf8vgYBdE2m"
+      "wallpaper_url": "https://user-images.githubusercontent.com/87075065/151343008-976210fa-9be4-4cd7-b6c3-25ca8aa20a36.jpeg"
     }
   ]
 }
