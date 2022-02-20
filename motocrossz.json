@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Motocross",
+      "wallpaper_url": "category/motocros.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiy8EGl955zJrORpENMp3iDctCXFoo5apzselfgddgvAhERi-h6KV8rea9j8aRZ37tehkkYbrirYFL2ukZGMU9DOiZY19d_7x5GsmokSUnvazzHHop7ADl0mu7lr_6kqiebAAm7_gpUzb7rf7bpmLpfvZZJmmB4VMJ62Vwpxdtb3cCsgZ5W9wVTRQme=s16000"      
+    },
+    {
+      "id": 2,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj0ksMAiCsA-QqlSd2eBXuIsT-uFv5GvmmbCUYZkbDciWWLXpOSXj_xymOysFQnHqr2Iy1CQvyhQmUsDiAubPPYMweubKBqF1GfmStjNul7dJTvc3iaWYaIHMzo8nbOWBGz8bzgJipPyN48fDRb-9P9pDbEY5T63ft9uGN9VNgUiakXe-JWg7qWil2s=s16000"
+    },
+    {
+      "id": 3,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiqNb2CNpg64AU-t3oggOEulibe6P8jncPr7_VEAXzTBhA8OUybazHBcIm4MGN7RfRggknnjCxkjZ9LMxou1H1IlIpCxYPF06NZ2bAjaQD7NCsfTAhDWeGS-ViOdgDlRy-0vuPVtggpMQ2sYDghnXz52rTwlKOwMPXQECGwwby37bmsAjKBfpgb3nuD=s16000"
+    },
+    {
+      "id": 4,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgdCKhpjkSi1_WxvN-kEpZh6Q2v3ALRpip1LJuYCiZomHXA1F7V2byfl_0x8VbGbD8O6U4s6h7gAvpwe54eLkRgj5fF2a7fTJPI16Rtnzf0_gKUtuLRuVTJXVV6GBKymODjiXhyspneghDfMEFQcySKMPq1jGTeDdNIWlcmcnPaZ9lWQ8a7mYgodmPO=s16000"      
+    },
+    {
+      "id": 5,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi2mIvXsnKh3FUQreuDBppJd9X9I2Bx6QQHHEjXJbZ_Sa-BNuCpRK75WpcC4WGZ1VPY9-nJhJtpWri_Dea8zUPU9r8qJ5QcctvmwhYQpCppX8AwBJ0YhV9BKq1CsrPMc5Z69W8pYSmZ-sVvlH0Nrqr0XJjR6kGI4d2tXg4D-5XlLMQfNAVC7gVQkNEL=s16000"
+    },
+    {
+      "id": 6,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjVcBnu3g3C_urXbmgDPv5UsYSLSXaZvkaAqVqBft0PXg7LIN0lIy02R-raOlEzVMpUJjGhG50zmmst-2727ZdwIbU5xXlP08nXOELTI9rRt0ZZ1W8DHtHQgCcfeAptnQ73DXTEC6VeuofmgGp5X00xbZkNkv00z5zJe4I8503f5HfbWPB0wv2jQRQU=s16000"
+    },
+    {
+      "id": 7,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhoJ-ftIGzN8MZdBz4L6WAhtd-NCUetzinXkFnWXjqweYw5UAXpqACBzK7EOjaCh6dTN43gScf-0yOovos472BZ6G3B4n9X9RFvp5Y8Np_4EozNhmL4HitLSLFt-ozOIPCroZ2NLAGSJvWb7XKqc4q8vgvbwpeE9vRBfcwV08_yoESYsWkGuQ4ZLSSg=s16000"
+    },
+    {
+      "id": 8,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ivfWxS08ufjmrKWNBz548TqoX35mr0MZzUOfNKpTSpaxHijwUakKPnY_Mkt1oKJ4OGFpdKpfd4kGYc4QhZELBD9vrpYg4gDp8AjUdKn3h7ElBG-wPihD1s6vHVP9egPxX8do9JbMJNeBf1Dksat3CvxVhGbjxn9Y4b6tNfaD5yHCJJQsNpiwO3J5=s16000"      
+    },
+    {
+      "id": 9,
+      "name_category": "Motocross",
+      "wallpaper_name": "Moto9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgk6xm9upmBTLHbTX7AejGCIBjmAXpQs_HWDXl45tsDAKNvOWxqj21w4oaxE0eLBZIpJI7Kc0kK0DoHT47NraRWqjR93xMFQ7Q61PRFbukYj7UorOe3typ_7BmL3Vjo_BoAUUdGEFSamjNUZ82pHaUC-eRrWmQP1Wsj5U5w8F0VN_m36Z3ySBcTj1uw=s16000"
+    }
+  ]
+}
