@@ -1,0 +1,114 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Couple",
+      "wallpaper_url": "category/animecople.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj8xYArEyYGJEIqw_PWNlb6nvbz-pHJTV_o2SvzoSxr7vly4qrhzwGg-MEaO3-Oi5akpR8gtDOoxPgFgy1qFlJ1CjalIZRRFs8Zny-Xti19neR5nQqKMhOxNoc6JOT5qpaShkq8mDEWPQg5WGy_cKfGVsWRyr7GUupE0jI_elBdVRsSRANCcQnUQIkZ=s320"      
+    },
+    {
+      "id": 2,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjknm8LM_yRvrVGhaORHSXSFKS9DI81LXV2bdM5-oeqIn0YImHOqKJRpNlxuCjn_ltIlvjK-eY-OajRBVhHp2V2opc0sXtiOHQ9Z08oOZ3Vts_SE-BtcknuZvNoAdETuSo1-1CxDU8UGNnt5aGM9JrLkdHPrabmZSD8IuZn2DAdZ_Gla0fW43eTb0hg=s320"
+    },
+    {
+      "id": 3,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh-cUaXNLXYpfWgVLolZudlD55RejuU9-W9GN-__zRWEZ0zWrk3_wM2cMR6P-U-mT42e-CL10VhGbo1hMMmhZVEeXpQjxCfwfKkEzMjkJBt3_euEANt24I3np-Np7Z9rrveR4fzN3WMCvJkM75CMHsJ1Etfc2DCTtYqvJE-CHXm5gu06xiQ3Tx9tod4=s320"
+    },
+    {
+      "id": 4,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhrJoE7zp4f_EVtDYjIU_uFVC_qMDamavGmSZbUVclRjltJ60iExDZTueZ8K3NFUm_aEVpHgMcay8nDspfubed6ja3wny52dWbQSNSNCMDoFHOHvGFWs4JlHI6HFOqYXP8s2e8clyW8U6TV8N90BUJlKdXW2qoo-F6alVL5gJDikOKubYssmPFTZalM=s320"
+    },
+    {
+      "id": 5,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgxZ4xg5KMQYrEu8_GT-SlEN_ureMdts_MtJtKBJVQX0xFxH8hDNhOLecMUUo4ZG1mbieR2v1DLHZQDZOdEOooks2wespt2Z7Xg00F7NmHBsNxJrzgtwvsXucuh7YLEOeBNyxIC2ZZwkFfik8EGxktGR0LYOEOSIR9CCndnWqizj2vYXMGdclRGTzgJ=s320"
+    },
+    {
+      "id": 6,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgmadiNMz9rPNJyruvOV3CnD4JeXAvDJBQRUIFIrUbYLF4-4fLbNdLJyg0oTCxC3FjwRWQ9ADuggPuXRcYpvyqXkc8HUiYDs5-cmMO5Uzw8993gnZph6bjXP61avMgS2XlzHBg7JQazfgXgsia2tVR-gyHKuHe-bFvCM3Z_tXRdYlhnMGJdEjRMqjBR=s320"
+    },
+    {
+      "id": 7,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi20d6idBCV8pjKJA004rgFun-J2ZfL20XTxZ4jEE2lp10_vQrOVsH1P2RHZzJQsRXlfUi-XXsBhzaM3NEcyl-ZJo9EdOQsxxGUv_TxuIHjUqazaFkVJBMSEhgI7OObjqkgQDA2xMbboWqT6A--1nyF0MI25JvbcSklUYoZK5pNID3kDY308jW8mTAe=s320"
+    },
+    {
+      "id": 8,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhm0DZisHQCcv26wWySaweCeF6BS_1X9-iUstvtYFfv-79oDy_-bt_E9HDq8BCMlDsOQFMWws_0sUz2BkoZYB4USjPp_9DrTjoFfRhi2Z2NyJgRYzrd-qwC6KPPNQEQHc9dSbTfxmRfwBowyzKe6sT9mGztF3curHjmcsAOD0dF0pGKzPgZK0CEuVVA=s320"
+    },
+    {
+      "id": 9,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi_R44gmHMrCRFDGFrXONJxhi8QU5Yy08lvJyU-SX2KTuk3Ub0z_glLRRbaqa0-PVg37kWmQUukPe-UfceUlwEjQWDPeuqW0oACgh-pyn9rEp_zyL1Q5A1ToDmaI29X65XlNSt_syKhXYtCjFjxtJZ39uGcvk4I7_ADLfu5bQ-MmmkT4ouf6d0Lz47Y=s320"
+    },
+    {
+      "id": 10,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple10",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhPcHBB3UTy68_zlUQ4yn7bBHTGSjAt2qA_RHHFMbIZafI5LTRlFgjMn6LgbGinx6M-IgyKvYT63I4c0Zi7N7RhFZipUSSqyt-QsTv-ommpb5wNG5nztMABA_pA0gQ5LUtuZnG-_KLQV7eGIg3wCHMA2DAQrr2GkpJadIZt2rUgGyxr8xZzvH9enlSt=s320"
+    },
+    {
+      "id": 11,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple11",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgCZAQg7bxYFB8DKTfXNYZmKOQcnh4RxBokF3Lf7GIe-UEeih8BHk90th1GAQyMofd-xJAkzdWawHb0GLrV5D-bgJjUaeoarTJCS9a86iZ_MlktW-d_nyPpxxgGDvUapcaElJltjMarZBJHwdonjmr8p27gC23wmcRI-uQx2AwqOO6XjIQfEPsjQRj6=s320"
+    },
+    {
+      "id": 12,
+      "name_category": "Couple",
+      "wallpaper_name": "AnimeCouple12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjblyKyVEkjkAtzC_uUC-EdCkOzhgLyaCLf3MGkZqdJo-yf9pdvrqNoaw5g8JUD4_8cmtM1Qg2X8ClBy8mrWY0IIJK3fBjxp-Nd5fiJJh8yPo-tkXHi3oQ5d47xWltgewVzeBUBR0dxF00613QHtNlUwhYmEIzUG2ezqhP6oM4tReeyFHrrnHzi3WNy=s320"      
+    }
+  ]
+}
