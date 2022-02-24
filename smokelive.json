@@ -1,0 +1,86 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Smokewall",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgZ_6PK9Qzx5c1hFanKieuz5xxXNz1nbuuH6h0z0sJ-mWi0b5EUyigPP2dVgza1sg_RgodJW_HxT4Xbrw7B_OaAS5nd_60BbiC1P-Q-CamabjZWxPZbNy_jWwimAAC9DNt4rt3PD4bJEXQCjAxzFp4nVjd_T8YpPkB11njn6BfdHpO8-ILPw14ue-VO=s16000"
+    },
+    {
+      "id": 2,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke2",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEj_jyG-cPp7u-iAXsWpmk-wiZK0-BIGat2kLpHNxqO4KoZyzSJLOp1DpCa5gLV8YsEDNytDPoUVdHbtS2RP_QpfGUJ9q8gVYbT31W1gYOmHRK_ZTEwriYXBTTUj6ULmsNDQdEAdZdJGn2RmExCeSM6tAXhLiJFxHULLdVLdaQhvhmGJ1v5dJLc8crFh=s16000"
+    },
+    {
+      "id": 3,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke3",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjLw81iSMkzMCWXKStXqNfHXlfef9RUk8iNEDRMvYlbdMxc-iz_oJ5O50iAO_OtpAnv-7MxeNbP-SpDdaOYXhzUndqY8LRdIMBd31A30KJD_w_O97KDBZ7-q5FzyWGxQftSWXdpZCuHwv0vnhUQoWTKY_iwiVAcCeG9J_ZUx-whL9Nd8QGcEmyxlG_v=s16000"
+    },
+    {
+      "id": 4,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke4",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEhIgHfSh2ujTDoB4ipx_DH8wNdrQT2GgsYaUkQArtkaJJ5c2FGE2_lzdv2ulAylWAVl87MdU3pUuE6jyc4j7C_8qo4VEgE95SCnNsBHPfZ0WJR-qQzkK21aPEJHYLfecsLtjlKcQriLKS6dgjO4PIHo6kbZlYhDM1KXYeLXM_EpRN-XQulE-4E2QPi7=s16000"
+    },
+    {
+      "id": 5,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke5",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiHqttwSqtfYJOc3-cXrkMuxKK19gez3aTlaxG5hd-MLLudp9tr8m1sZcQKtrtJEDEFhvQPtovTEtm8jQua8lufbvV4svlnSOnHcxR1ihnLDIBm_dUWGsGMQ7muVXf4xU5ET4WGlV5p-pRIDjbIzKaXl0nk7iXSn7u6lHHev66NWkvvnKG-2H54hVQY=s16000"
+    },
+    {
+      "id": 6,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke6",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEh9ykhR5LuWebmnjTwKMkLcwXURSfaVjSGFUREemSvWLoNgh2KnNz_F2t4kFRu3jC5_XJQYFV5i1baBgOU1lBxhVbe7bHqXL9lMRq3_f5-aNHgFsvtGS5fUMEAQvOIph5nwvsMKxfkXszHUvKxcF0aVeX7v6zx3LyDfoA24nJcQMLYEaGZpHQIggCkj=s16000"
+    },
+    {
+      "id": 7,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiFI3cbB8FepIy969wpdE-2LkXKyG6jiDQ_vLav8t_rR9WX1mULeKCOD8jUkLkl1GQY7LRoinrnSj_jVlp5MM0SOGteytbQXPZ6vdy_T8DqHyEJMR1KDSZIBXmlWJ9Q0WKlifXssfoHRMd55lzo95enFtQmhAwcIXYIFO-Npt43j2oEL0dgkCSkVwf7=s16000"
+    },
+    {
+      "id": 8,
+      "name_category": "Smokewall",
+      "wallpaper_name": "Smoke8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgGbx9dSyATorFS1e6aDKoLIHA0KKrVm6ZgQcI-bb9fexyWK90e14Z8AW2VWL8cuqsgvoJ6g88ZkR_0f_Z729R4TqwdHhDWEU_3e6BZYOU5KuQqAeDUME4TE-z8-YPBs18bdRSosOK_Y_eufyu6XKlPJdFx8zWbD8klZ1PpkeK_7ogxPPI0XZ1tGJXi=s16000"
+    }
+  ]
+}
