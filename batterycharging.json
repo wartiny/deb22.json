@@ -1,0 +1,93 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Battery",
+      "wallpaper_url": "category/supercar.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Battery",
+      "wallpaper_name": "BatteryCharging",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEiKG2IY1JNlNIWFTVHiJMEwerOgwOK9ImB2M0GdARHNQxv1tHlCF4F2ZKaWSz92Q68OneR8iVuYfYKPlVypJRhyHCteFkXRjsQIVMUwPVexRXhhOMV9AGV0vJpDvhfynUj7Fnuf5UG02-d5CoeZnXlCmX2uKh_tvzUmu71lqCruhYsyHhTALP4QKU6d=s320"
+    },
+    {
+      "id": 2,
+      "name_category": "Battery",
+      "wallpaper_name": "BatteryCharging1",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEi2Wc2-IFHokldhjnGQ1aMzPaawC4IROtnJ9oZAQGPxiuM0x2EWw8WuYut9F4ng8ieKMZWH-du4mKeCdvWoecoKwCbZ7X75F04o1QjXfoPna8qz-kv8ipHkKJVMdVCKLSv1vw5HtIVYVi1Wj_PntT-YhO3ArzRWnYbd6PYtpddfNNR-SZz1A1HZAO74=s320"
+    },
+    {
+      "id": 3,
+      "name_category": "Battery",
+      "wallpaper_name": "BatteryCharging2",
+      "wallpaper_type": "GIF,
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjzOeDdxacEe7P4nvJwKuieTVoCJl3yyZr9kP4Cbu0UdapulZ5-GyBex6HR6QFo_TMp472F2D1L_ln-AzWga8ItV1VCVe94Mlo_bTHsCHW2any1r4zpjd0E-n_Nwqac0miM7NJgP1a8x3O5S5ufFUQdJww7VG6UnxQ5aHTZSgZD97TNGgWpsJQ6iQqb=s320"
+    },
+    {
+      "id": 4,
+      "name_category": "Animals",
+      "wallpaper_name": "BatteryCharging3",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgPeGw_wDdAYSglhVMha7r5b5Gsgu3YNlDO_wsCWzM3DBgozilXS0BfV0e9FZV-QIlUw7fgV_kRV4Eu6bwcrkkQkuS5o0C5fuhG59CZoj64dwzuD7I2YlXDwlHl6zOnd6hHYGUCzP7uKofQ6Y2CIFTRMtzJEPJL__PqHjDAkHVsplWinnv288LPeG0M=s320"
+    },
+    {
+      "id": 5,
+      "name_category": "Nature",
+      "wallpaper_name": "BatteryCharging4",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjUfntRjI5bdS_pJfB0kITKRct08vcryTNKe_wykpiOd4R_MKeu0d3VCB7hG-GfmtD8sPc9RLz6tH-yE9ENMj0mrqix_V3Y-6TvsjzlEv1O-PaJmZW39XsePKscAkPYCif5N8fBWezkjKmZmT5PCtLG6bFXEnwtlc0MgDD600GBNyriJQFeXbZ5BXXb=s320"
+    },
+    {
+      "id": 6,
+      "name_category": "Nature",
+      "wallpaper_name": "BatteryCharging4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgAbBC2sSrrBH2UnoMPUsKSE7hha9eUlcGQ6O6-5uERylyUHmMyFziSSkWYi5wRzudxO1WOT9F6yhaqepjjEuZEkNzUnaVRZJIAlfEV__PubqZHwjxil2D26nzrhYmk_WNYoohPv-I6ibEfDZB_pU1yRp8xCKLeI12NtsHQIRddnXmd-fTbx-nNVKDw=s320"
+    },
+    {
+      "id": 7,
+      "name_category": "Animals",
+      "wallpaper_name": "BatteryCharging5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjRyG6A65_DyN8xe-hqB75JdzLqdI_qjwaOAxRf3A55Z2eF7abMIhFOBqx9EcUs00JkKzEx7vGfcs-NpkfueAX4eOYPLzYO_ySgxergB9713U251HaKEsNZhncE0vbUF_tRTzju_T9EQ6rYD1K7tUcKrkGfwhRdanMgciW7nmtMWbvo2gY7eyHYvyto=s320"
+    },
+    {
+      "id": 8,
+      "name_category": "Nature",
+      "wallpaper_name": "BatteryCharging6",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEgNWJUs_N8-e-700ovVOc51oBw4YWonuyPio3vmsDymxDdskXmjpfmOu1DbD97JvEx3GksyKjMbz7PUxWVX7z5yDmatreiy1Hv-2U6FVQ610CwAE3BhlJxsbKcnN0OyCCFzWhxxgMAYD6jqPmpUCfBn7CLd9bmWtbqbR9vHKPtHaRWpw475LPqGXm6v=s320"
+    },
+    {
+      "id": 9,
+      "name_category": "Nature",
+      "wallpaper_name": "BatteryCharging7",
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/a/AVvXsEjnZkkpnOOKUo0g9RUP1Zfyif6xnmtjgz1HbptqknAYUH1GI43-aYJOtqTfX1bo0fPLcgHh40rwz7mBlzavkLGWtJmg8l_rV_9JFmaj4QKfKsloPO-G6aEuYpkx5zM4rlZOVX-U6HtjwgmaTpWpZSFHNjl27c8pvccbqzJ1glaKbJAcf2Of4gZvF2Nh=s320"
+    }
+  ]
+}
